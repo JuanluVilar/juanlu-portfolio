@@ -1,0 +1,37 @@
+h1{
+  font-size: 20px;
+  text-align: left;
+}
+
+
+.h2proyect{
+  text-align: left;
+}
+.pproyect{
+  text-align: left;
+}
+.content-section-grey{
+  background-color: #212121;
+}
+
+.content-section-greym{
+  background-color: #303030;
+}
+
+.content-section-greymi{
+  background-color: #424242;
+}
+
+.content-section-grey{
+  background-color: #212121;
+}
+
+img.resize{
+  width: 80%;
+}
+img.resize2{
+  width: 90%;
+}
+img.resize3{
+  width: 40%;
+}
