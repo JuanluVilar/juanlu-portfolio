@@ -7,9 +7,28 @@ h1{
 .h2proyect{
   text-align: left;
 }
+.footercenter{
+  text-align: center;
+}
+.footercolor{
+  background-color: white;
+}
 .pproyect{
   text-align: left;
 }
+.pfooter{
+  color: black;
+}
+.afooter{
+  color: #689ACA;
+}
+.afooter:hover{
+  color: #000000;
+}
+.aproyect{
+  color: white;
+}
+
 .content-section-grey{
   background-color: #212121;
 }
@@ -34,4 +53,7 @@ img.resize2{
 }
 img.resize3{
   width: 40%;
+}
+img.resize4{
+  width: 60%;
 }
